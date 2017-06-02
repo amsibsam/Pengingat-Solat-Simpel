@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pengingat Solat</string>
+    <string name="loading">Loading..</string>
+    <string name="error_no_internet">No internet connection</string>
+    <string name="nim">nim</string>
+    <string name="password_hint">password</string>
+    <string name="login">login</string>
+    <string name="login_title">Login</string>
+    <string name="server_error">Server Error</string>
+    <string name="praying_time_activity_title">Praying Time</string>
+</resources>
