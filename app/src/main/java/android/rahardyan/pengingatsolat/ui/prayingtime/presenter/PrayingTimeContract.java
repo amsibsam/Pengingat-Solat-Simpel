@@ -1,4 +1,4 @@
-package android.rahardyan.pengingatsolat.ui.presenter;
+package android.rahardyan.pengingatsolat.ui.prayingtime.presenter;
 
 import android.rahardyan.pengingatsolat.model.DailyPrayingTimePojo;
 

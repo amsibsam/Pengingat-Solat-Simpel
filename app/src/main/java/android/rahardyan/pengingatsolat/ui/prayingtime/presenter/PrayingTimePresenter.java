@@ -1,12 +1,10 @@
-package android.rahardyan.pengingatsolat.ui.presenter;
+package android.rahardyan.pengingatsolat.ui.prayingtime.presenter;
 
 import android.content.Context;
 import android.rahardyan.pengingatsolat.R;
 import android.rahardyan.pengingatsolat.base.BasePresenter;
 import android.rahardyan.pengingatsolat.model.DailyPrayingTimePojo;
 import android.support.annotation.NonNull;
-
-import com.google.gson.JsonElement;
 
 import retrofit2.Call;
 import retrofit2.Callback;
